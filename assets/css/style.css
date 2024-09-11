@@ -536,4 +536,8 @@ del {
         justify-content: center;
         width: 100%;
     }
+
+    .swiper-slide {
+        display: block;
+    }
 }
