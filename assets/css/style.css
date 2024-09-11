@@ -201,7 +201,7 @@ nav .navbar .links li:hover .js-sub-menu {
 
     .navbar .bx-menu {
         position: absolute;
-        left: 20px;
+        right: 20px;
         top: 20px;
         display: block;
     }
@@ -209,7 +209,7 @@ nav .navbar .links li:hover .js-sub-menu {
     nav .navbar .nav-links {
         position: fixed;
         top: 0;
-        left: -100%;
+        right: -100%;
         display: block;
         max-width: 400px;
         width: 100%;
@@ -355,7 +355,7 @@ nav .navbar .links li:hover .js-sub-menu {
 .box-card {
     display: flex;
     align-items: center;
-    justify-content: centsber;
+    justify-content: center;
     width: 100%;
     flex-wrap: wrap;
     margin: 10px;
